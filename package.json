@@ -1,0 +1,18 @@
+{
+  "name": "gulpproject",
+  "version": "1.0.0",
+  "description": "Мой первый проект Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2~https://github.com/StanyslavKrutko/fe55"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
